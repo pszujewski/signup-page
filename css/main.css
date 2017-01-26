@@ -11,7 +11,7 @@ body {
 .logo-container img {
   height: 35px;
   width: 150px;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 .gl-container {
@@ -67,6 +67,7 @@ body {
 .sml-container {
   text-align: center;
   color: #fff;
+  margin-bottom: 50px;
 }
 
 .sml-container p a {
