@@ -1,0 +1,75 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #3796e1;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+.logo-container img {
+  height: 35px;
+  width: 150px;
+  margin-top: 100px;
+}
+
+.gl-container {
+  background-color: #fff;
+  padding: 20px 40px;
+  max-width: 402px;
+  margin: 30px auto;
+  border-radius: 5px;
+  border: 2px solid #eaeaea;
+}
+
+.form-bin .title h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.form-bin form input {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  font-size: 16px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #eaeaea;
+  border-radius: 5px;
+}
+
+.form-bin form button {
+  background-color: #63c67f;
+  color: #fff;
+  border-radius: 5px;
+  border: 2px solid #63c67f;
+  width: 100%;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.form-bin form button:hover {
+  background-color: #45915b;
+  border: 2px solid #45915b;
+}
+
+.form-bin .btm-bin {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.form-bin .btm-bin a {
+  color: #263238;
+}
+
+.sml-container {
+  text-align: center;
+  color: #fff;
+}
+
+.sml-container p a {
+  color: #fff;
+  text-decoration: underline;
+}
